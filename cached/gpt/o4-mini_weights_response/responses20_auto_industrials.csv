@@ -1,0 +1,35 @@
+Here’s one way you might “tilt” a 20-stock S&P 500 Industrials portfolio toward higher-growth, more defensive or cash-generative names while underweighting the most cyclical names.  All weights sum to 1.00:
+
+Ticker    Weight  
+LMT       0.10  
+RTX       0.09  
+NOC       0.08  
+HON       0.08  
+UNP       0.07  
+PH        0.06  
+CAT       0.06  
+DE        0.06  
+MMM       0.05  
+CSX       0.05  
+FDX       0.04  
+UPS       0.04  
+EXPD      0.04  
+ITW       0.04  
+EMR       0.03  
+ETN       0.03  
+ROK       0.03  
+NSC       0.01  
+CMI       0.02  
+BA        0.02  
+
+Total     1.00  
+
+Underlying strategy/logic:  
+1.   Overweight “defensive” subsectors—defense primes (LMT, RTX, NOC) with long order backlogs and stable government spending.  
+2.   Overweight high-margin, automation & instrumentation (HON, PH, ITW, EMR, ETN, ROK) benefiting from continued factory automation, reshoring and infrastructure spend.  
+3.   Overweight select transportation/rail (UNP, CSX) for secular growth in intermodal freight.  
+4.   Modest positions in logistics integrators (FDX, UPS, EXPD) on e-commerce growth and pricing power.  
+5.   Underweight heavy cyclicals (CAT, DE) and airlines (BA), which are more exposed to volatile commodity and travel cycles.  
+6.   Mid-caps (MMM, CMI, NSC) get smaller “satellite” weights, reflecting mixed end markets.  
+
+By tilting toward higher-quality cash flows, secular growth themes and more defensive sub-sectors you aim to reduce cycle risk and potentially outperform a straight cap-weighted industrials index during both soft (defense, automation) and stronger (rail, logistics) demand regimes.

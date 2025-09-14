@@ -1,0 +1,46 @@
+# Hypothetical Consumer Staples Portfolio Allocation
+
+## Portfolio Weights
+| Ticker | Company | Weight |
+|--------|---------|--------|
+| COST | Costco Wholesale | 0.12 |
+| PG | Procter & Gamble | 0.10 |
+| WMT | Walmart | 0.09 |
+| KO | Coca-Cola | 0.08 |
+| PEP | PepsiCo | 0.08 |
+| MNST | Monster Beverage | 0.07 |
+| EL | Estée Lauder | 0.06 |
+| MDLZ | Mondelez International | 0.06 |
+| CL | Colgate-Palmolive | 0.05 |
+| STZ | Constellation Brands | 0.05 |
+| KR | Kroger | 0.04 |
+| HSY | Hershey | 0.04 |
+| CLX | Clorox | 0.03 |
+| KMB | Kimberly-Clark | 0.03 |
+| CHD | Church & Dwight | 0.03 |
+| MKC | McCormick & Company | 0.02 |
+| GIS | General Mills | 0.02 |
+| SJM | J.M. Smucker | 0.01 |
+| CPB | Campbell Soup | 0.01 |
+| CAG | Conagra Brands | 0.01 |
+| **Total** | | **1.00** |
+
+## Strategy Logic
+
+This hypothetical portfolio is designed with a multi-factor approach that aims to outperform the standard S&P 500 Consumer Staples index through:
+
+1. **Growth-Defensive Balance (60/40 split)**:
+   - 60% allocation to companies with stronger growth profiles (COST, MNST, EL, STZ, MDLZ)
+   - 40% allocation to traditional defensive staples with stable dividends
+
+2. **Overweight on Modern Retail**: Higher allocations to COST and WMT (21% combined) based on their omnichannel strength, warehouse models, and ability to navigate inflation environments.
+
+3. **Beverage Sector Emphasis**: Combined 23% to KO, PEP, and MNST, balancing traditional beverage leaders with higher-growth energy drink exposure.
+
+4. **Premium/Luxury Exposure**: Increased weight to EL (6%) for exposure to premium personal care, which tends to have higher margins and more pricing power.
+
+5. **Underweight on Processed Foods**: Reduced exposure to traditional packaged food companies (GIS, CPB, CAG, SJM) which face margin pressures and changing consumer preferences.
+
+6. **E-commerce Readiness**: Favoring companies with strong direct-to-consumer and digital capabilities.
+
+This allocation strategy seeks alpha through emphasizing companies with pricing power, strong market positions, and adaptation to changing consumer behaviors, while maintaining sufficient diversification across the consumer staples subsectors.

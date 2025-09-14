@@ -1,0 +1,47 @@
+Here’s one illustrative, fully normalized weighting (summing to 1.00) across your 20 IT names, together with a high-level description of the factor-based “over/underweight” logic behind it.
+
+Portfolio Weights  
+AAPL   0.08  
+MSFT   0.08  
+NVDA   0.10  
+AVGO   0.05  
+ORCL   0.03  
+ADBE   0.06  
+TXN    0.05  
+QCOM   0.04  
+AMD    0.06  
+LRCX   0.04  
+CRM    0.06  
+INTU   0.05  
+NOW    0.06  
+WDAY   0.04  
+CSCO   0.03  
+PANW   0.04  
+FTNT   0.04  
+INTC   0.025  
+CRWD   0.05  
+IBM    0.015  
+
+Total = 1.00  
+
+Underlying Strategy / Logic  
+1. Factor Composite Score  
+   • We score each stock on four inputs:  
+     – 40% Revenue Growth (trailing-12m)  
+     – 30% Analyst Earnings Revision Trend  
+     – 20% Price Momentum (6- and 12-month)  
+     – 10% Valuation (forward P/E vs. peer median)  
+   • Names with the highest “composite score” get proportionally higher weights.  
+
+2. Growth & Momentum Tilt  
+   • Overweights (NVDA, AAPL, MSFT, AMD, CRM, NOW): leaders in AI compute, cloud/SaaS adoption, strong earnings revisions.  
+   • Midweights (ADBE, AVGO, TXN, CRWD, PANW, FTNT): solid growth drivers in semis, security, embedded.  
+
+3. Valuation / Defensive Buffer  
+   • Lightly weight mature, slower‐growth legacy names (IBM, INTC, CSCO, ORCL) to limit drag if the market rotates away from near-term growth.  
+
+4. Diversification & Position Limits  
+   • Cap any single name at ~10% to avoid concentration risk.  
+   • Ensure exposure across four sub-sectors: semis, software/SaaS, hardware, security/networking.  
+
+By systematically over- or underweighting relative to a simple market-cap index, this hypothetical mix aims to capture stronger growth/momentum while still preserving sector diversification and valuation discipline.

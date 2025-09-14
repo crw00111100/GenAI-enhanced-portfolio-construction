@@ -1,0 +1,48 @@
+Below is one possible “high‐conviction” weighting of the 20 names, summing to 1.00 (100%).  This example tilts toward companies with strong secular growth drivers, healthy fundamentals and attractive valuations, while underweighting those with slower pipelines or greater regulatory/cycle risk.
+
+Stock   Weight  
+UNH   0.12  
+TMO   0.10  
+ISRG   0.09  
+DHR   0.09  
+AMGN   0.08  
+LLY   0.08  
+ABBV   0.07  
+MDT   0.06  
+ABT   0.06  
+JNJ   0.05  
+MRK   0.04  
+BMY   0.03  
+HUM   0.03  
+CI   0.02  
+VRTX   0.02  
+GILD   0.02  
+HCA   0.02  
+PFE   0.01  
+BIIB   0.005  
+SYK   0.005  
+
+Total  1.00  
+
+Underlying strategy/logic  
+1. Factor‐based overweight:  
+   • Secular growth & innovation (UNH, TMO, ISRG, DHR) get the largest weights—these names have durable end-market moats (e.g. diagnostic automation, data analytics, integrated care).  
+   • Mid‐cap biotech exposure (VRTX) is modest—enough to capture breakthroughs but limited to avoid binary risk.  
+
+2. Quality & free‐cash‐flow screen:  
+   • Highly profitable, strong balance‐sheet names (AMGN, LLY, ABBV) earn premium weights.  
+   • Diversified medtech leaders (MDT, ABT) get mid‐teens weights for stable growth and margin resilience.  
+
+3. Valuation & momentum overlay:  
+   • Moderately paced large‐caps (JNJ, MRK, BMY) are underweighted relative to the index due to slower pipeline re-rates.  
+   • Volatile/commodity‐like pharmas (PFE, BIIB, GILD) receive token weights given relative undervaluation but higher regulatory risk.  
+
+4. Risk management & diversification caps:  
+   • No single name >12% to limit concentration risk.  
+   • Broad coverage across sub‐sectors (pharma, biotech, medtech, managed care, services).  
+
+5. Rebalancing & dynamic tilt:  
+   • Quarterly rebalance to capture shifts in earnings revisions and adjust for over/underperformance.  
+   • Overlay a mild volatility target (e.g. 10–12% annualized) to smooth returns versus pure cap‐weight index.  
+
+This blend of secular growth tilts, quality screening, valuation discipline and risk controls is designed—hypothetically—to produce a healthier risk-adjusted return profile versus a plain cap-weighted SP500-35 health_care index.

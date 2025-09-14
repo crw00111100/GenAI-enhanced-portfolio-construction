@@ -1,0 +1,62 @@
+Here is a hypothetical allocation of weights to the 20 energy stocks in the theoretical model portfolio, along with the underlying strategy used to assign these weights. The weights are normalized to add up to 1.00.
+
+---
+
+### **Hypothetical Model Portfolio Allocation**
+
+| **Stock Ticker** | **Weight (%)** |
+|-------------------|----------------|
+| XOM              | 12.00%         |
+| CVX              | 10.50%         |
+| COP              | 9.00%          |
+| EOG              | 8.00%          |
+| DVN              | 7.50%          |
+| APA              | 5.50%          |
+| KMI              | 6.00%          |
+| WMB              | 5.00%          |
+| OKE              | 4.50%          |
+| VLO              | 6.00%          |
+| PSX              | 5.50%          |
+| MPC              | 7.00%          |
+| SLB              | 4.00%          |
+| HAL              | 3.50%          |
+| BKR              | 3.00%          |
+| OXY              | 6.50%          |
+| HES              | 4.50%          |
+| FANG             | 5.50%          |
+| TRGP             | 3.50%          |
+| CTRA             | 2.50%          |
+
+---
+
+### **Total Weight:** 100.00% (or 1.00 normalized)
+
+---
+
+### **Underlying Strategy/Logic**
+
+The allocation strategy is based on a **blend of market capitalization, growth potential, diversification, and risk-reward balance**. Below are the key considerations that informed the weight assignment:
+
+1. **Market Leaders (Higher Weights)**:
+   - **XOM (ExxonMobil)** and **CVX (Chevron)** are the largest and most stable companies in the energy sector. They have strong balance sheets, diversified operations (upstream, downstream, and chemicals), and are well-positioned to benefit from long-term energy demand. These stocks are given the highest weights (12% and 10.5%, respectively) to anchor the portfolio with stability and consistent performance.
+   - **COP (ConocoPhillips)** and **EOG (EOG Resources)** are also major players with significant exposure to oil and natural gas production, making them strong candidates for growth. They are assigned moderately high weights (9% and 8%, respectively).
+
+2. **Growth-Oriented Companies (Medium Weights)**:
+   - Companies like **DVN (Devon Energy)**, **MPC (Marathon Petroleum)**, **OXY (Occidental Petroleum)**, and **FANG (Diamondback Energy)** are focused on high-growth areas such as shale oil, refining, and renewable energy integration. These firms have strong potential to outperform in a bullish energy market, so they are assigned medium weights (5.5% to 7.5%).
+   - **HES (Hess)** is included in this category due to its strong exploration and production (E&P) focus.
+
+3. **Midstream and Refining Exposure (Balanced Weights)**:
+   - Midstream companies like **KMI (Kinder Morgan)**, **WMB (Williams Companies)**, **OKE (ONEOK)**, and **TRGP (Targa Resources)** are critical for energy infrastructure and logistics. These companies generate stable cash flows and provide diversification. They are assigned moderate weights (3.5% to 6%).
+   - Refining-focused stocks like **VLO (Valero Energy)** and **PSX (Phillips 66)** are also included for diversification and exposure to downstream operations.
+
+4. **Oilfield Services (Lower Weights)**:
+   - Oilfield service providers like **SLB (Schlumberger)**, **HAL (Halliburton)**, and **BKR (Baker Hughes)** are more volatile and cyclical in nature. While they benefit from increased drilling activity, their performance is tied to oil prices and capital spending by producers. These stocks are given lower weights (3% to 4%) to manage risk.
+
+5. **Smaller Players and Niche Exposure (Lower Weights)**:
+   - Companies like **CTRA (Coterra Energy)** and **TRGP (Targa Resources)** are smaller players with niche exposures. While they have growth potential, their smaller scale and higher risk warrant lower weights (2.5% to 3.5%).
+
+6. **Diversification and Risk Management**:
+   - The portfolio aims to balance exposure across different segments of the energy sector (upstream, midstream, downstream, and oilfield services) to reduce concentration risk.
+   - Larger, more stable companies are overweighted, while smaller or more volatile companies are underweighted to manage overall portfolio risk.
+
+7. **Potential to Outperform the SP500-10 Energy Index**:

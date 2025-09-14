@@ -1,0 +1,606 @@
+sector,portfolio,difference
+energy,gpt4o_weighted_energy,-0.0028773449539812
+energy,gpt4o_equal_energy,-0.0125574876401086
+energy,gpt4o Min Var,-0.0427198688738943
+energy,gpt4o Max Ret,-0.0098283937678481
+energy,gpt4o Max Sharpe,-0.0346784625079223
+energy,gpt4.1_weighted_energy,0.0033370461986938
+energy,gpt4.1_equal_energy,-0.0101696150159296
+energy,gpt4.1 Min Var,-0.0437603261945739
+energy,gpt4.1 Max Ret,-0.0035956165739655
+energy,gpt4.1 Max Sharpe,-0.0254288723471565
+energy,o4-mini_weighted_energy,-0.0009898557055292
+energy,o4-mini_equal_energy,-0.0101696150159296
+energy,o4-mini Min Var,-0.0437603261945743
+energy,o4-mini Max Ret,-0.0035956165739654
+energy,o4-mini Max Sharpe,-0.0254288723471568
+energy,sonnet-3.7_weighted_energy,-0.0085821675962875
+energy,sonnet-3.7_equal_energy,-0.0175018564792367
+energy,sonnet-3.7 Min Var,-0.053152814988724
+energy,sonnet-3.7 Max Ret,-0.0341103302267014
+energy,sonnet-3.7 Max Sharpe,-0.0478006841765544
+energy,sonnet-4_weighted_energy,-0.0119907367375324
+energy,sonnet-4_equal_energy,-0.0125574876401086
+energy,sonnet-4 Min Var,-0.0427198688738943
+energy,sonnet-4 Max Ret,-0.0098283937678481
+energy,sonnet-4 Max Sharpe,-0.0346784625079223
+energy,opus-4_weighted_energy,-0.0071175729624553
+energy,opus-4_equal_energy,-0.0125574876401086
+energy,opus-4 Min Var,-0.0427198688738943
+energy,opus-4 Max Ret,-0.0098283937678481
+energy,opus-4 Max Sharpe,-0.0346784625079224
+energy,dsV3_weighted_energy,0.0034259309512974
+energy,dsV3_equal_energy,-0.013604983246553
+energy,dsV3 Min Var,-0.0461723822095561
+energy,dsV3 Max Ret,-0.0317252461046295
+energy,dsV3 Max Sharpe,-0.0457918549131676
+energy,dsR1_weighted_energy,-0.0051849632801325
+energy,dsR1_equal_energy,-0.0125574876401086
+energy,dsR1 Min Var,-0.0427198688738943
+energy,dsR1 Max Ret,-0.0098283937678481
+energy,dsR1 Max Sharpe,-0.0346784625079223
+energy,gemini_weighted_energy,-0.0002447339844985
+energy,gemini_equal_energy,-0.0125574876401086
+energy,gemini Min Var,-0.0427198688738943
+energy,gemini Max Ret,-0.0098283937678481
+energy,gemini Max Sharpe,-0.0346784625079223
+energy,grok3_weighted_energy,-0.0053050678319514
+energy,grok3_equal_energy,-0.0125574876401087
+energy,grok3 Min Var,-0.0427198688738943
+energy,grok3 Max Ret,-0.0098283937678481
+energy,grok3 Max Sharpe,-0.0346784625079224
+energy,grok3-mini_weighted_energy,-0.010013308216653
+energy,grok3-mini_equal_energy,-0.0101696150159296
+energy,grok3-mini Min Var,-0.0437603261945739
+energy,grok3-mini Max Ret,-0.0035956165739655
+energy,grok3-mini Max Sharpe,-0.0254288723471565
+materials,gpt4o_weighted_materials,-0.0204404588643779
+materials,gpt4o_equal_materials,-0.0123654320548759
+materials,gpt4o Min Var,-0.0104851832156012
+materials,gpt4o Max Ret,-0.0061803385116526
+materials,gpt4o Max Sharpe,-0.0042980704640489
+materials,gpt4.1_weighted_materials,-0.0219321963818431
+materials,gpt4.1_equal_materials,-0.022673400571719
+materials,gpt4.1 Min Var,-0.0246141990686147
+materials,gpt4.1 Max Ret,-0.0112012157337905
+materials,gpt4.1 Max Sharpe,-0.0125594018510172
+materials,o4-mini_weighted_materials,-0.0294807167281422
+materials,o4-mini_equal_materials,-0.0206151835987698
+materials,o4-mini Min Var,-0.0233223027559795
+materials,o4-mini Max Ret,-0.0099773519251534
+materials,o4-mini Max Sharpe,-0.0110280212579602
+materials,sonnet-3.7_weighted_materials,-0.020454457565621
+materials,sonnet-3.7_equal_materials,-0.0163701344357882
+materials,sonnet-3.7 Min Var,-0.0136318496904321
+materials,sonnet-3.7 Max Ret,-0.0074741587614039
+materials,sonnet-3.7 Max Sharpe,0.0007963259996118
+materials,sonnet-4_weighted_materials,-0.023611435499403
+materials,sonnet-4_equal_materials,-0.0224822794671494
+materials,sonnet-4 Min Var,-0.0383170345743482
+materials,sonnet-4 Max Ret,-0.0110734333981015
+materials,sonnet-4 Max Sharpe,-0.0133272218132926
+materials,opus-4_weighted_materials,-0.0135536022331439
+materials,opus-4_equal_materials,-0.0018886635457205
+materials,opus-4 Min Var,-0.0025929775047839
+materials,opus-4 Max Ret,0.0011620940781709
+materials,opus-4 Max Sharpe,0.0073158085832771
+materials,dsV3_weighted_materials,-0.0220514234397194
+materials,dsV3_equal_materials,-0.0165842808010755
+materials,dsV3 Min Var,-0.0346792228181905
+materials,dsV3 Max Ret,-0.0086587837092099
+materials,dsV3 Max Sharpe,-0.01779596163281
+materials,dsR1_weighted_materials,-0.0302600712320038
+materials,dsR1_equal_materials,-0.0174809820843701
+materials,dsR1 Min Var,-0.0219448671005533
+materials,dsR1 Max Ret,-0.0091524874752019
+materials,dsR1 Max Sharpe,-0.0133462629665145
+materials,gemini_weighted_materials,-0.0248506094002706
+materials,gemini_equal_materials,-0.006522580246936
+materials,gemini Min Var,-0.0065046005387079
+materials,gemini Max Ret,-0.0016017143022057
+materials,gemini Max Sharpe,0.004305495658697
+materials,grok3_weighted_materials,-0.0117819696269082
+materials,grok3_equal_materials,-0.0112810287902341
+materials,grok3 Min Var,-0.0059028362487639
+materials,grok3 Max Ret,-0.005494726387568
+materials,grok3 Max Sharpe,-0.0046665115408341
+materials,grok3-mini_weighted_materials,-0.0162405019823944
+materials,grok3-mini_equal_materials,-0.0159808600328744
+materials,grok3-mini Min Var,-0.0209868152913915
+materials,grok3-mini Max Ret,-0.0082550153915286
+materials,grok3-mini Max Sharpe,-0.0120218337353289
+industrials,gpt4o_weighted_industrials,0.0136039012040157
+industrials,gpt4o_equal_industrials,0.0093095322309626
+industrials,gpt4o Min Var,0.0252848389267612
+industrials,gpt4o Max Ret,0.0039782503187197
+industrials,gpt4o Max Sharpe,0.0009713046596815
+industrials,gpt4.1_weighted_industrials,0.0076791135952227
+industrials,gpt4.1_equal_industrials,0.0038843396369667
+industrials,gpt4.1 Min Var,0.0153528708118719
+industrials,gpt4.1 Max Ret,0.0046501337915592
+industrials,gpt4.1 Max Sharpe,0.0045886841818637
+industrials,o4-mini_weighted_industrials,0.0134937415365805
+industrials,o4-mini_equal_industrials,0.0053715600709828
+industrials,o4-mini Min Var,0.0335444237080695
+industrials,o4-mini Max Ret,-0.0037427036279633
+industrials,o4-mini Max Sharpe,-0.0015872788456061
+industrials,sonnet-3.7_weighted_industrials,0.0032868300777859
+industrials,sonnet-3.7_equal_industrials,0.0018838306308374
+industrials,sonnet-3.7 Min Var,0.0280678052412783
+industrials,sonnet-3.7 Max Ret,-0.004854190203056
+industrials,sonnet-3.7 Max Sharpe,0.0036941873678847
+industrials,sonnet-4_weighted_industrials,0.0083743269980951
+industrials,sonnet-4_equal_industrials,0.0105326378586011
+industrials,sonnet-4 Min Var,0.0343179985606906
+industrials,sonnet-4 Max Ret,0.0047067972390923
+industrials,sonnet-4 Max Sharpe,0.0047067972390931
+industrials,opus-4_weighted_industrials,0.0075322807480453
+industrials,opus-4_equal_industrials,0.0067132999603987
+industrials,opus-4 Min Var,0.020634570598693
+industrials,opus-4 Max Ret,0.0029508892073201
+industrials,opus-4 Max Sharpe,-0.0033698405620574
+industrials,dsV3_weighted_industrials,-0.0016661439017003
+industrials,dsV3_equal_industrials,-0.0027151806844896
+industrials,dsV3 Min Var,0.0158884220829884
+industrials,dsV3 Max Ret,-0.0068908768146232
+industrials,dsV3 Max Sharpe,-0.0093916301201977
+industrials,dsR1_weighted_industrials,-0.0040786181237121
+industrials,dsR1_equal_industrials,-0.0001869749371695
+industrials,dsR1 Min Var,0.0157137364489696
+industrials,dsR1 Max Ret,0.0044931597069801
+industrials,dsR1 Max Sharpe,5.456951765279795e-05
+industrials,gemini_weighted_industrials,0.0032701636115195
+industrials,gemini_equal_industrials,0.0013243723595546
+industrials,gemini Min Var,0.0145415017864592
+industrials,gemini Max Ret,-0.0002378575740482
+industrials,gemini Max Sharpe,0.0049242513539855
+industrials,grok3_weighted_industrials,0.0133846941386305
+industrials,grok3_equal_industrials,0.0105326378586011
+industrials,grok3 Min Var,0.0343179985606907
+industrials,grok3 Max Ret,0.0047067972390924
+industrials,grok3 Max Sharpe,0.0047067972390926
+industrials,grok3-mini_weighted_industrials,0.0141477090530885
+industrials,grok3-mini_equal_industrials,0.0037631330860448
+industrials,grok3-mini Min Var,0.014857193367392
+industrials,grok3-mini Max Ret,0.0006428535434864
+industrials,grok3-mini Max Sharpe,-0.004161627690717
+consumer_discretionary,gpt4o_weighted_consumer_discretionary,0.0310328702157585
+consumer_discretionary,gpt4o_equal_consumer_discretionary,0.0435823072532522
+consumer_discretionary,gpt4o Min Var,0.0514282908657157
+consumer_discretionary,gpt4o Max Ret,0.0323744770489663
+consumer_discretionary,gpt4o Max Sharpe,0.0188670964552693
+consumer_discretionary,gpt4.1_weighted_consumer_discretionary,0.0448561377198385
+consumer_discretionary,gpt4.1_equal_consumer_discretionary,0.0576508438726451
+consumer_discretionary,gpt4.1 Min Var,0.0546191245111798
+consumer_discretionary,gpt4.1 Max Ret,0.04474798456732
+consumer_discretionary,gpt4.1 Max Sharpe,0.0440315759784151
+consumer_discretionary,o4-mini_weighted_consumer_discretionary,0.0220988341250854
+consumer_discretionary,o4-mini_equal_consumer_discretionary,0.0452943446540473
+consumer_discretionary,o4-mini Min Var,0.0464918545502859
+consumer_discretionary,o4-mini Max Ret,0.03195365490789
+consumer_discretionary,o4-mini Max Sharpe,0.0252369840279339
+consumer_discretionary,sonnet-3.7_weighted_consumer_discretionary,0.0060919113856849
+consumer_discretionary,sonnet-3.7_equal_consumer_discretionary,0.0134854038774299
+consumer_discretionary,sonnet-3.7 Min Var,0.0295792319373188
+consumer_discretionary,sonnet-3.7 Max Ret,-0.0141265040290052
+consumer_discretionary,sonnet-3.7 Max Sharpe,-0.0031781668330729
+consumer_discretionary,sonnet-4_weighted_consumer_discretionary,0.0126497422647106
+consumer_discretionary,sonnet-4_equal_consumer_discretionary,0.0271350898310905
+consumer_discretionary,sonnet-4 Min Var,0.0356230987069392
+consumer_discretionary,sonnet-4 Max Ret,-0.007391115043403
+consumer_discretionary,sonnet-4 Max Sharpe,0.0147393366921814
+consumer_discretionary,opus-4_weighted_consumer_discretionary,0.0190635750167958
+consumer_discretionary,opus-4_equal_consumer_discretionary,0.034133315216082
+consumer_discretionary,opus-4 Min Var,0.0378542670365798
+consumer_discretionary,opus-4 Max Ret,0.0252015484023156
+consumer_discretionary,opus-4 Max Sharpe,0.018893210580426
+consumer_discretionary,dsV3_weighted_consumer_discretionary,0.0335671563813872
+consumer_discretionary,dsV3_equal_consumer_discretionary,0.0574502914604055
+consumer_discretionary,dsV3 Min Var,0.0518194955697455
+consumer_discretionary,dsV3 Max Ret,0.0640727268938185
+consumer_discretionary,dsV3 Max Sharpe,0.0382121051948916
+consumer_discretionary,dsR1_weighted_consumer_discretionary,0.0378469223713462
+consumer_discretionary,dsR1_equal_consumer_discretionary,0.053885695488756
+consumer_discretionary,dsR1 Min Var,0.0496480335557018
+consumer_discretionary,dsR1 Max Ret,0.0678429133318926
+consumer_discretionary,dsR1 Max Sharpe,0.0425603667096004
+consumer_discretionary,gemini_weighted_consumer_discretionary,0.0217573731055393
+consumer_discretionary,gemini_equal_consumer_discretionary,0.0442984012540584
+consumer_discretionary,gemini Min Var,0.0473211077251997
+consumer_discretionary,gemini Max Ret,0.0562786830396994
+consumer_discretionary,gemini Max Sharpe,0.0397160214515122
+consumer_discretionary,grok3_weighted_consumer_discretionary,0.0208308600996102
+consumer_discretionary,grok3_equal_consumer_discretionary,0.0365164566047592
+consumer_discretionary,grok3 Min Var,0.039288422357659
+consumer_discretionary,grok3 Max Ret,0.0266385854815674
+consumer_discretionary,grok3 Max Sharpe,0.0197788408529861
+consumer_discretionary,grok3-mini_weighted_consumer_discretionary,0.0310881515689485
+consumer_discretionary,grok3-mini_equal_consumer_discretionary,0.0581111404969496
+consumer_discretionary,grok3-mini Min Var,0.0541505846204643
+consumer_discretionary,grok3-mini Max Ret,0.0528212195640246
+consumer_discretionary,grok3-mini Max Sharpe,0.0421890037988868
+consumer_staples,gpt4o_weighted_consumer_staples,0.0209182791604273
+consumer_staples,gpt4o_equal_consumer_staples,0.0268075243016739
+consumer_staples,gpt4o Min Var,0.020078937462687
+consumer_staples,gpt4o Max Ret,-0.0096058631694153
+consumer_staples,gpt4o Max Sharpe,-0.0018104863606133
+consumer_staples,gpt4.1_weighted_consumer_staples,0.0185519652457739
+consumer_staples,gpt4.1_equal_consumer_staples,0.0210764948770561
+consumer_staples,gpt4.1 Min Var,0.0089863573585475
+consumer_staples,gpt4.1 Max Ret,-0.0075634432828201
+consumer_staples,gpt4.1 Max Sharpe,-0.0066364079170747
+consumer_staples,o4-mini_weighted_consumer_staples,0.0292048124454795
+consumer_staples,o4-mini_equal_consumer_staples,0.026349304877152
+consumer_staples,o4-mini Min Var,0.0203962989995348
+consumer_staples,o4-mini Max Ret,-0.0088849007657606
+consumer_staples,o4-mini Max Sharpe,-0.0088849007657607
+consumer_staples,sonnet-3.7_weighted_consumer_staples,0.0183531483270891
+consumer_staples,sonnet-3.7_equal_consumer_staples,0.0323149674380153
+consumer_staples,sonnet-3.7 Min Var,0.0239204348613431
+consumer_staples,sonnet-3.7 Max Ret,-0.0030425886331439
+consumer_staples,sonnet-3.7 Max Sharpe,-0.003042588633144
+consumer_staples,sonnet-4_weighted_consumer_staples,0.002340953219464
+consumer_staples,sonnet-4_equal_consumer_staples,0.0178411942441595
+consumer_staples,sonnet-4 Min Var,0.0093083815509188
+consumer_staples,sonnet-4 Max Ret,-0.0087632375318847
+consumer_staples,sonnet-4 Max Sharpe,-0.0050935675698254
+consumer_staples,opus-4_weighted_consumer_staples,0.0130894378021864
+consumer_staples,opus-4_equal_consumer_staples,0.0283487956035104
+consumer_staples,opus-4 Min Var,0.0231927120946208
+consumer_staples,opus-4 Max Ret,-0.0055281338982757
+consumer_staples,opus-4 Max Sharpe,0.000603313254338
+consumer_staples,dsV3_weighted_consumer_staples,0.0219838137559033
+consumer_staples,dsV3_equal_consumer_staples,0.0148191983459972
+consumer_staples,dsV3 Min Var,0.0216527420888496
+consumer_staples,dsV3 Max Ret,0.0022393762979791
+consumer_staples,dsV3 Max Sharpe,0.008122996007633
+consumer_staples,dsR1_weighted_consumer_staples,0.016162220522145
+consumer_staples,dsR1_equal_consumer_staples,0.0221896816923172
+consumer_staples,dsR1 Min Var,0.0109478049749298
+consumer_staples,dsR1 Max Ret,-0.0111991406432711
+consumer_staples,dsR1 Max Sharpe,-0.0105221020279949
+consumer_staples,gemini_weighted_consumer_staples,0.0142048228416846
+consumer_staples,gemini_equal_consumer_staples,0.0165980146355172
+consumer_staples,gemini Min Var,0.0128126743258837
+consumer_staples,gemini Max Ret,-0.014986089132943
+consumer_staples,gemini Max Sharpe,-0.0134678289676867
+consumer_staples,grok3_weighted_consumer_staples,0.0203302495836456
+consumer_staples,grok3_equal_consumer_staples,0.0268052378409316
+consumer_staples,grok3 Min Var,0.0202772083210333
+consumer_staples,grok3 Max Ret,0.0152532665677865
+consumer_staples,grok3 Max Sharpe,0.0141472565835699
+consumer_staples,grok3-mini_weighted_consumer_staples,0.0128937697315436
+consumer_staples,grok3-mini_equal_consumer_staples,0.0201369049935729
+consumer_staples,grok3-mini Min Var,0.017176001567486
+consumer_staples,grok3-mini Max Ret,-0.0002570179562819
+consumer_staples,grok3-mini Max Sharpe,0.0009778410388923
+health_care,gpt4o_weighted_health_care,0.0168767921472678
+health_care,gpt4o_equal_health_care,0.0150245725114645
+health_care,gpt4o Min Var,0.0024938399828493
+health_care,gpt4o Max Ret,0.0567918810694023
+health_care,gpt4o Max Sharpe,0.0381717969050485
+health_care,gpt4.1_weighted_health_care,-0.0083115257715103
+health_care,gpt4.1_equal_health_care,-0.0234892952586654
+health_care,gpt4.1 Min Var,-0.0229622851119555
+health_care,gpt4.1 Max Ret,-0.0104458424316375
+health_care,gpt4.1 Max Sharpe,-0.0104458424316377
+health_care,o4-mini_weighted_health_care,-0.0104855892224684
+health_care,o4-mini_equal_health_care,-0.0086944615357058
+health_care,o4-mini Min Var,-0.0130684853563548
+health_care,o4-mini Max Ret,-0.0050953013013544
+health_care,o4-mini Max Sharpe,0.0019621514253496
+health_care,sonnet-3.7_weighted_health_care,-0.0156434061440809
+health_care,sonnet-3.7_equal_health_care,-0.0149534874375476
+health_care,sonnet-3.7 Min Var,-0.0224877055116854
+health_care,sonnet-3.7 Max Ret,-0.0049360810706278
+health_care,sonnet-3.7 Max Sharpe,0.0028074453420341
+health_care,sonnet-4_weighted_health_care,0.0030413500488408
+health_care,sonnet-4_equal_health_care,0.0060355351345671
+health_care,sonnet-4 Min Var,-0.0012201499009882
+health_care,sonnet-4 Max Ret,0.0439965326268975
+health_care,sonnet-4 Max Sharpe,0.0327291392099529
+health_care,opus-4_weighted_health_care,-0.012371431541729
+health_care,opus-4_equal_health_care,-0.0092036309904837
+health_care,opus-4 Min Var,-0.0253001345024266
+health_care,opus-4 Max Ret,0.0019188181421791
+health_care,opus-4 Max Sharpe,0.0093393841598874
+health_care,dsV3_weighted_health_care,0.0131151446028475
+health_care,dsV3_equal_health_care,0.0145464141323768
+health_care,dsV3 Min Var,0.0003248699298594
+health_care,dsV3 Max Ret,0.0489065840230551
+health_care,dsV3 Max Sharpe,0.037842307534587
+health_care,dsR1_weighted_health_care,-0.0078634453391201
+health_care,dsR1_equal_health_care,-0.0167643927938161
+health_care,dsR1 Min Var,-0.0189435143051735
+health_care,dsR1 Max Ret,-0.0025075732739942
+health_care,dsR1 Max Sharpe,0.0056456032275104
+health_care,gemini_weighted_health_care,-0.0101250790955889
+health_care,gemini_equal_health_care,-0.0001128480254304
+health_care,gemini Min Var,-0.0054212260413042
+health_care,gemini Max Ret,0.0405281378453876
+health_care,gemini Max Sharpe,0.0265818035071178
+health_care,grok3_weighted_health_care,-0.0035617731083823
+health_care,grok3_equal_health_care,-0.0052483579005388
+health_care,grok3 Min Var,-0.0082065601646593
+health_care,grok3 Max Ret,0.0244609142237013
+health_care,grok3 Max Sharpe,0.0155223881431545
+health_care,grok3-mini_weighted_health_care,-0.0103182974916095
+health_care,grok3-mini_equal_health_care,-0.0194258980533761
+health_care,grok3-mini Min Var,-0.0183825640143023
+health_care,grok3-mini Max Ret,-0.0080445731093536
+health_care,grok3-mini Max Sharpe,-0.0080445731093548
+financials,gpt4o_weighted_financials,-0.0164612785232955
+financials,gpt4o_equal_financials,-0.0125235389234038
+financials,gpt4o Min Var,0.0130127220721903
+financials,gpt4o Max Ret,-0.0080398981936955
+financials,gpt4o Max Sharpe,0.0104797215739233
+financials,gpt4.1_weighted_financials,-0.0056945799914053
+financials,gpt4.1_equal_financials,-0.0030235512078867
+financials,gpt4.1 Min Var,0.025760250723639
+financials,gpt4.1 Max Ret,-0.0116215436705214
+financials,gpt4.1 Max Sharpe,0.0107700390024635
+financials,o4-mini_weighted_financials,-0.0209545228561894
+financials,o4-mini_equal_financials,-0.0126093017605026
+financials,o4-mini Min Var,0.0140372861210989
+financials,o4-mini Max Ret,-0.0367793038247062
+financials,o4-mini Max Sharpe,-0.0151143371374818
+financials,sonnet-3.7_weighted_financials,0.0087247455513761
+financials,sonnet-3.7_equal_financials,0.0007636615825044
+financials,sonnet-3.7 Min Var,0.0282936873713151
+financials,sonnet-3.7 Max Ret,-0.0037186805135528
+financials,sonnet-3.7 Max Sharpe,0.0239806170097363
+financials,sonnet-4_weighted_financials,-0.0135793595014456
+financials,sonnet-4_equal_financials,-0.0200052100987336
+financials,sonnet-4 Min Var,0.0085035064601649
+financials,sonnet-4 Max Ret,-0.0413264520999719
+financials,sonnet-4 Max Sharpe,-0.0116354303751565
+financials,opus-4_weighted_financials,-0.0296216080174104
+financials,opus-4_equal_financials,-0.0345721972147306
+financials,opus-4 Min Var,-0.0016760481801694
+financials,opus-4 Max Ret,-0.0782842561242661
+financials,opus-4 Max Sharpe,-0.0267916069727985
+financials,dsV3_weighted_financials,-0.0251387709038522
+financials,dsV3_equal_financials,-0.0141655206781997
+financials,dsV3 Min Var,0.0147578554867333
+financials,dsV3 Max Ret,-0.0233615103237717
+financials,dsV3 Max Sharpe,-0.0087788667945039
+financials,dsR1_weighted_financials,-0.0071610305484745
+financials,dsR1_equal_financials,-0.0073743024653098
+financials,dsR1 Min Var,0.029464894807328
+financials,dsR1 Max Ret,-0.0142285651220927
+financials,dsR1 Max Sharpe,0.0094580904807628
+financials,gemini_weighted_financials,0.0085289576370416
+financials,gemini_equal_financials,0.0063305488562601
+financials,gemini Min Var,0.0315546099906002
+financials,gemini Max Ret,-0.0051547819205275
+financials,gemini Max Sharpe,0.0086048949640745
+financials,grok3_weighted_financials,-0.0373949669998184
+financials,grok3_equal_financials,-0.0218020828331825
+financials,grok3 Min Var,0.0010293672105837
+financials,grok3 Max Ret,-0.033227377299935
+financials,grok3 Max Sharpe,-0.0229516481532546
+financials,grok3-mini_weighted_financials,-0.0259031377683129
+financials,grok3-mini_equal_financials,-0.0214177890572682
+financials,grok3-mini Min Var,0.0084333906735005
+financials,grok3-mini Max Ret,-0.0239711443961614
+financials,grok3-mini Max Sharpe,-0.0173200173660165
+information_technology,gpt4o_weighted_information_technology,0.0053588328104055
+information_technology,gpt4o_equal_information_technology,0.0117897463722079
+information_technology,gpt4o Min Var,0.0148416049672093
+information_technology,gpt4o Max Ret,0.0079302445767105
+information_technology,gpt4o Max Sharpe,-0.0164982878472313
+information_technology,gpt4.1_weighted_information_technology,0.0034251752274256
+information_technology,gpt4.1_equal_information_technology,0.007871485428594
+information_technology,gpt4.1 Min Var,0.0122650142042201
+information_technology,gpt4.1 Max Ret,0.0055616785643508
+information_technology,gpt4.1 Max Sharpe,-0.0177078447384262
+information_technology,o4-mini_weighted_information_technology,-0.000919203943561
+information_technology,o4-mini_equal_information_technology,-0.0014087973754502
+information_technology,o4-mini Min Var,0.0069313716977116
+information_technology,o4-mini Max Ret,-0.0123073803625201
+information_technology,o4-mini Max Sharpe,-0.0215381299220227
+information_technology,sonnet-3.7_weighted_information_technology,-0.0034557481581307
+information_technology,sonnet-3.7_equal_information_technology,0.0151579408951442
+information_technology,sonnet-3.7 Min Var,0.0220109451758944
+information_technology,sonnet-3.7 Max Ret,0.0413178291293447
+information_technology,sonnet-3.7 Max Sharpe,-0.014975284368517
+information_technology,sonnet-4_weighted_information_technology,-0.0090596094594723
+information_technology,sonnet-4_equal_information_technology,0.0017283280246622
+information_technology,sonnet-4 Min Var,0.0086485588661332
+information_technology,sonnet-4 Max Ret,-0.01039330833452
+information_technology,sonnet-4 Max Sharpe,-0.0199125738638604
+information_technology,opus-4_weighted_information_technology,0.0091152960832808
+information_technology,opus-4_equal_information_technology,0.0351758040911749
+information_technology,opus-4 Min Var,0.025063633058336
+information_technology,opus-4 Max Ret,0.063294478465976
+information_technology,opus-4 Max Sharpe,0.0053895523240091
+information_technology,dsV3_weighted_information_technology,-0.0104318756529226
+information_technology,dsV3_equal_information_technology,-0.0021719030911977
+information_technology,dsV3 Min Var,0.0039437632774648
+information_technology,dsV3 Max Ret,-0.0127168159941272
+information_technology,dsV3 Max Sharpe,-0.0216209205675091
+information_technology,dsR1_weighted_information_technology,-0.0201658701616708
+information_technology,dsR1_equal_information_technology,-0.0053685469997973
+information_technology,dsR1 Min Var,0.0115050028705843
+information_technology,dsR1 Max Ret,-0.0123935654776672
+information_technology,dsR1 Max Sharpe,-0.0265548433939556
+information_technology,gemini_weighted_information_technology,0.005654569230354
+information_technology,gemini_equal_information_technology,0.0165608196375892
+information_technology,gemini Min Var,0.0146619211281787
+information_technology,gemini Max Ret,0.0108361552886324
+information_technology,gemini Max Sharpe,-0.0106526255430807
+information_technology,grok3_weighted_information_technology,-0.0034435963175355
+information_technology,grok3_equal_information_technology,-0.0067106340107078
+information_technology,grok3 Min Var,0.0037612966558774
+information_technology,grok3 Max Ret,-0.0155138524760514
+information_technology,grok3 Max Sharpe,-0.0244931481283033
+information_technology,grok3-mini_weighted_information_technology,0.0171928126498431
+information_technology,grok3-mini_equal_information_technology,0.0218294188301034
+information_technology,grok3-mini Min Var,0.0204068961917401
+information_technology,grok3-mini Max Ret,0.030070789208308
+information_technology,grok3-mini Max Sharpe,7.945664413730765e-06
+communication_services,gpt4o_weighted_communication_services,-0.024600766154942
+communication_services,gpt4o_equal_communication_services,-0.0157068331439916
+communication_services,gpt4o Min Var,-0.0124826394257748
+communication_services,gpt4o Max Ret,-0.0199396936430567
+communication_services,gpt4o Max Sharpe,-0.0225575580741966
+communication_services,gpt4.1_weighted_communication_services,-0.0177304805848522
+communication_services,gpt4.1_equal_communication_services,-0.0096429046023803
+communication_services,gpt4.1 Min Var,-0.0087739125995058
+communication_services,gpt4.1 Max Ret,-0.0162656485889208
+communication_services,gpt4.1 Max Sharpe,-0.0200490504526665
+communication_services,o4-mini_weighted_communication_services,-0.0164344522621226
+communication_services,o4-mini_equal_communication_services,-0.0107601000426703
+communication_services,o4-mini Min Var,-0.0098018952480236
+communication_services,o4-mini Max Ret,-0.0169669474827387
+communication_services,o4-mini Max Sharpe,-0.0207610428184724
+communication_services,sonnet-3.7_weighted_communication_services,-0.0183295545723698
+communication_services,sonnet-3.7_equal_communication_services,-0.0067708866349652
+communication_services,sonnet-3.7 Min Var,-0.0076262059973557
+communication_services,sonnet-3.7 Max Ret,-0.0145478919584058
+communication_services,sonnet-3.7 Max Sharpe,-0.0183491952250791
+communication_services,sonnet-4_weighted_communication_services,-0.0219379366816505
+communication_services,sonnet-4_equal_communication_services,-0.0111103603051223
+communication_services,sonnet-4 Min Var,-0.0106009962583621
+communication_services,sonnet-4 Max Ret,-0.0230724326917736
+communication_services,sonnet-4 Max Sharpe,-0.0230724326917733
+communication_services,opus-4_weighted_communication_services,-0.0222714189493059
+communication_services,opus-4_equal_communication_services,-0.0111103603051223
+communication_services,opus-4 Min Var,-0.010600996258362
+communication_services,opus-4 Max Ret,-0.0230724326917735
+communication_services,opus-4 Max Sharpe,-0.0230724326917733
+communication_services,dsV3_weighted_communication_services,-0.0230939898501676
+communication_services,dsV3_equal_communication_services,-0.0111103603051223
+communication_services,dsV3 Min Var,-0.0106009962583621
+communication_services,dsV3 Max Ret,-0.0230724326917736
+communication_services,dsV3 Max Sharpe,-0.0230724326917733
+communication_services,dsR1_weighted_communication_services,-0.0264833615311772
+communication_services,dsR1_equal_communication_services,-0.0115415193710996
+communication_services,dsR1 Min Var,-0.0104870857702337
+communication_services,dsR1 Max Ret,-0.0233173294011396
+communication_services,dsR1 Max Sharpe,-0.0233173294011397
+communication_services,gemini_weighted_communication_services,-0.0201266620366591
+communication_services,gemini_equal_communication_services,-0.0096429046023803
+communication_services,gemini Min Var,-0.0087739125995058
+communication_services,gemini Max Ret,-0.0162656485889208
+communication_services,gemini Max Sharpe,-0.0200490504526664
+communication_services,grok3_weighted_communication_services,-0.0160861872425823
+communication_services,grok3_equal_communication_services,-0.0096429046023805
+communication_services,grok3 Min Var,-0.0087739125995058
+communication_services,grok3 Max Ret,-0.0162656485889208
+communication_services,grok3 Max Sharpe,-0.0200490504526663
+communication_services,grok3-mini_weighted_communication_services,-0.0280847262886036
+communication_services,grok3-mini_equal_communication_services,-0.0180220419278862
+communication_services,grok3-mini Min Var,-0.0152399474371894
+communication_services,grok3-mini Max Ret,-0.021313924374643
+communication_services,grok3-mini Max Sharpe,-0.0251875394948
+utilities,gpt4o_weighted_utilities,0.0041012151597815
+utilities,gpt4o_equal_utilities,0.0025116032069462
+utilities,gpt4o Min Var,4.313038626752823e-05
+utilities,gpt4o Max Ret,0.0326281869674814
+utilities,gpt4o Max Sharpe,0.0326281869674814
+utilities,gpt4.1_weighted_utilities,0.0013018700938765
+utilities,gpt4.1_equal_utilities,-0.0051717053256365
+utilities,gpt4.1 Min Var,-0.0035071011836261
+utilities,gpt4.1 Max Ret,0.0040962425009498
+utilities,gpt4.1 Max Sharpe,0.0016116963384103
+utilities,o4-mini_weighted_utilities,0.0042804571593089
+utilities,o4-mini_equal_utilities,-0.0054200826065913
+utilities,o4-mini Min Var,-0.0037892032727506
+utilities,o4-mini Max Ret,0.0039546412961304
+utilities,o4-mini Max Sharpe,0.0017825963796482
+utilities,sonnet-3.7_weighted_utilities,-0.0058848798657839
+utilities,sonnet-3.7_equal_utilities,-0.0161262872628048
+utilities,sonnet-3.7 Min Var,-0.0105916711582778
+utilities,sonnet-3.7 Max Ret,0.0004532814159262
+utilities,sonnet-3.7 Max Sharpe,-0.0027265463467261
+utilities,sonnet-4_weighted_utilities,-0.0136942321890058
+utilities,sonnet-4_equal_utilities,-0.0198800923068249
+utilities,sonnet-4 Min Var,-0.0120110060141192
+utilities,sonnet-4 Max Ret,-0.0190620159702105
+utilities,sonnet-4 Max Sharpe,-0.020001041749184
+utilities,opus-4_weighted_utilities,-0.0003826920372069
+utilities,opus-4_equal_utilities,-0.0110487501865641
+utilities,opus-4 Min Var,-0.0074299366351889
+utilities,opus-4 Max Ret,-0.0138086718154448
+utilities,opus-4 Max Sharpe,-0.0145748480696785
+utilities,dsV3_weighted_utilities,0.0002126216415685
+utilities,dsV3_equal_utilities,-0.007375612844423
+utilities,dsV3 Min Var,-0.0049415887349879
+utilities,dsV3 Max Ret,0.0023349614157388
+utilities,dsV3 Max Sharpe,0.0023349614157387
+utilities,dsR1_weighted_utilities,-0.0074014232758585
+utilities,dsR1_equal_utilities,-0.0153582127966009
+utilities,dsR1 Min Var,-0.0190094357797459
+utilities,dsR1 Max Ret,-0.0019162859443757
+utilities,dsR1 Max Sharpe,-0.0044319212250345
+utilities,gemini_weighted_utilities,-0.0054551879386306
+utilities,gemini_equal_utilities,-0.0140924205618661
+utilities,gemini Min Var,-0.0130863309418375
+utilities,gemini Max Ret,-0.0004055328340227
+utilities,gemini Max Sharpe,-0.0004055328340228
+utilities,grok3_weighted_utilities,0.0046901121925183
+utilities,grok3_equal_utilities,0.0017316779336475
+utilities,grok3 Min Var,0.0001111389513926
+utilities,grok3 Max Ret,0.0321926797242781
+utilities,grok3 Max Sharpe,0.032192679724278
+utilities,grok3-mini_weighted_utilities,-0.0088614075691253
+utilities,grok3-mini_equal_utilities,-0.0124464483205456
+utilities,grok3-mini Min Var,-0.0080350629659603
+utilities,grok3-mini Max Ret,-0.0070671682207503
+utilities,grok3-mini Max Sharpe,-0.0070671682207503
+real_estate,gpt4o_weighted_real_estate,-0.004803850163596049
+real_estate,gpt4o_equal_real_estate,-0.008834272528177688
+real_estate,gpt4o Min Var,-0.01430157844382694
+real_estate,gpt4o Max Ret,-0.020769522977016397
+real_estate,gpt4o Max Sharpe,-0.007292013346756047
+real_estate,gpt4.1_weighted_real_estate,-0.0047879188807043935
+real_estate,gpt4.1_equal_real_estate,-0.014036479417424105
+real_estate,gpt4.1 Min Var,-0.014865729036194273
+real_estate,gpt4.1 Max Ret,-0.03849134233878214
+real_estate,gpt4.1 Max Sharpe,-0.015059588908541529
+real_estate,o4-mini_weighted_real_estate,-0.005567383984354192
+real_estate,o4-mini_equal_real_estate,-0.015088876424496418
+real_estate,o4-mini Min Var,-0.015479538211079521
+real_estate,o4-mini Max Ret,-0.03299523371923706
+real_estate,o4-mini Max Sharpe,-0.009571539399671149
+real_estate,sonnet-3.7_weighted_real_estate,-0.002667941482906433
+real_estate,sonnet-3.7_equal_real_estate,-0.010698969719695214
+real_estate,sonnet-3.7 Min Var,-0.012868618005695172
+real_estate,sonnet-3.7 Max Ret,-0.022531128762588778
+real_estate,sonnet-3.7 Max Sharpe,-0.012814153524541405
+real_estate,sonnet-4_weighted_real_estate,-0.001260158129117969
+real_estate,sonnet-4_equal_real_estate,-0.015714439319946077
+real_estate,sonnet-4 Min Var,-0.015881272425889267
+real_estate,sonnet-4 Max Ret,-0.025582696745239084
+real_estate,sonnet-4 Max Sharpe,-0.01703141690036473
+real_estate,opus-4_weighted_real_estate,-0.005225995780039208
+real_estate,opus-4_equal_real_estate,-0.010464432512479565
+real_estate,opus-4 Min Var,-0.013355115370716215
+real_estate,opus-4 Max Ret,-0.022400206134370475
+real_estate,opus-4 Max Sharpe,-0.012548472252758205
+real_estate,dsV3_weighted_real_estate,-0.0014318153334319042
+real_estate,dsV3_equal_real_estate,-0.007164138340033401
+real_estate,dsV3 Min Var,-0.010712745616655512
+real_estate,dsV3 Max Ret,-0.015109066627617025
+real_estate,dsV3 Max Sharpe,-0.0048564792836267336
+real_estate,dsR1_weighted_real_estate,0.00027777759540585536
+real_estate,dsR1_equal_real_estate,-0.006389368019340966
+real_estate,dsR1 Min Var,-0.010271920044940167
+real_estate,dsR1 Max Ret,-0.011585657116898577
+real_estate,dsR1 Max Sharpe,-0.0014428100639187864
+real_estate,gemini_weighted_real_estate,0.00039349762153815355
+real_estate,gemini_equal_real_estate,-0.00833779803450825
+real_estate,gemini Min Var,-0.011426351089840614
+real_estate,gemini Max Ret,-0.020451436817225412
+real_estate,gemini Max Sharpe,-0.006310410472011288
+real_estate,grok3_weighted_real_estate,-0.015397575626253912
+real_estate,grok3_equal_real_estate,-0.02604151761416918
+real_estate,grok3 Min Var,-0.024212682977174552
+real_estate,grok3 Max Ret,-0.03967828504698086
+real_estate,grok3 Max Sharpe,-0.016408753459286655
+real_estate,grok3-mini_weighted_real_estate,-0.00878228567310438
+real_estate,grok3-mini_equal_real_estate,-0.010059305840263686
+real_estate,grok3-mini Min Var,-0.012495367840818745
+real_estate,grok3-mini Max Ret,-0.02216807368981668
+real_estate,grok3-mini Max Sharpe,-0.011680397983173553

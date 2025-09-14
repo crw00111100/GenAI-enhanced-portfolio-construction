@@ -1,0 +1,43 @@
+# Hypothetical Utilities Portfolio Allocation
+
+Here's a theoretical weight distribution for a portfolio of S&P 500 utilities stocks that might potentially outperform the sector index:
+
+| Ticker | Company | Weight |
+|--------|---------|--------|
+| NEE | NextEra Energy | 0.12 |
+| DUK | Duke Energy | 0.09 |
+| SO | Southern Company | 0.08 |
+| D | Dominion Energy | 0.07 |
+| SRE | Sempra Energy | 0.07 |
+| CEG | Constellation Energy | 0.06 |
+| AEP | American Electric Power | 0.06 |
+| XEL | Xcel Energy | 0.06 |
+| EXC | Exelon | 0.05 |
+| ES | Eversource Energy | 0.05 |
+| ETR | Entergy | 0.05 |
+| WEC | WEC Energy Group | 0.04 |
+| CMS | CMS Energy | 0.04 |
+| ED | Consolidated Edison | 0.04 |
+| AEE | Ameren | 0.03 |
+| EVRG | Evergy | 0.03 |
+| PNW | Pinnacle West Capital | 0.02 |
+| LNT | Alliant Energy | 0.02 |
+| ATO | Atmos Energy | 0.01 |
+| NI | NiSource | 0.01 |
+| **Total** | | **1.00** |
+
+## Strategy & Logic
+
+This allocation is based on a multi-factor approach with the following considerations:
+
+1. **Renewable Energy Tilt (30%)**: Overweight companies with significant renewable energy investments and clear transition strategies (NEE, CEG, XEL, SRE)
+
+2. **Dividend Stability (25%)**: Favor companies with strong dividend histories and sustainable payout ratios (SO, DUK, D)
+
+3. **Regulatory Environment (20%)**: Higher weights to utilities operating in favorable regulatory jurisdictions with predictable rate case outcomes
+
+4. **Financial Strength (15%)**: Prioritize companies with stronger balance sheets and lower debt-to-EBITDA ratios
+
+5. **Geographic Diversification (10%)**: Balance exposure across different regions to mitigate weather and regional regulatory risks
+
+This allocation is more concentrated in the top holdings than the typical market-cap weighted index, with a strategic overweight to NextEra Energy (NEE) due to its industry leadership in renewables and strong execution history. The portfolio maintains meaningful exposure to traditional regulated utilities while positioning for the energy transition.

@@ -1,0 +1,48 @@
+Below is a hypothetical allocation of weights to the given stocks in the theoretical model portfolio. The allocation is designed with a focus on diversification, growth potential, and balancing risk across different types of energy companies (e.g., upstream, downstream, services, and infrastructure). The weights are normalized to sum to 1.00 (100%).
+
+### Hypothetical Weights for the Portfolio:
+| Stock | Weight (%) |
+|-------|------------|
+| XOM   | 15.0%      |
+| CVX   | 14.0%      |
+| COP   | 12.0%      |
+| SLB   | 8.0%       |
+| HAL   | 6.0%       |
+| MPC   | 7.0%       |
+| PSX   | 6.0%       |
+| EOG   | 10.0%      |
+| OXY   | 8.0%       |
+| DVN   | 6.0%       |
+| VLO   | 4.0%       |
+| BKR   | 3.0%       |
+| HES   | 5.0%       |
+| WMB   | 3.0%       |
+| APA   | 3.0%       |
+
+### Strategy/Logic Behind the Allocation:
+
+1. **Core Holdings in Integrated Majors (XOM, CVX):**
+   - ExxonMobil (XOM) and Chevron (CVX) are allocated the highest weights (15% and 14%, respectively) as they are large, diversified, and financially stable integrated oil & gas companies. These companies are better positioned to weather volatility in energy markets and provide a solid foundation for the portfolio.
+
+2. **Growth-Oriented Exposure (COP, EOG, OXY):**
+   - ConocoPhillips (COP), EOG Resources (EOG), and Occidental Petroleum (OXY) are allocated significant weights (12%, 10%, and 8%, respectively) due to their strong focus on upstream exploration and production. These companies are expected to benefit from rising oil and gas prices and have strong growth potential.
+
+3. **Energy Services and Equipment (SLB, HAL, BKR):**
+   - Schlumberger (SLB), Halliburton (HAL), and Baker Hughes (BKR) are included to provide exposure to oilfield services, which are crucial for the energy supply chain. SLB receives the highest weight (8%) among the three due to its global reach and technological leadership.
+
+4. **Refining and Downstream Companies (MPC, PSX, VLO):**
+   - Marathon Petroleum (MPC), Phillips 66 (PSX), and Valero Energy (VLO) represent the refining and downstream segment. MPC and PSX are given moderate weights (7% and 6%, respectively) for their diversified operations, while VLO is allocated a smaller weight (4%) due to its narrower focus on refining.
+
+5. **Natural Gas and Infrastructure (WMB):**
+   - Williams Companies (WMB) is a natural gas pipeline and infrastructure company. It is allocated a modest weight (3%) to diversify into the midstream sector and provide some stability through its fee-based business model.
+
+6. **Smaller, High-Volatility Players (DVN, APA, HES):**
+   - Devon Energy (DVN), APA Corporation (APA), and Hess Corporation (HES) are allocated smaller weights (6%, 3%, and 5%, respectively) to capture upside potential from their higher sensitivity to commodity price movements. Their weights are kept lower to manage risk.
+
+### Key Considerations:
+- **Diversification:** The portfolio is diversified across different segments of the energy sector (upstream, downstream, services, and infrastructure) to reduce reliance on any single part of the value chain.
+- **Risk Management:** Larger, stable companies like XOM and CVX are given higher weights to anchor the portfolio, while smaller, higher-volatility companies are allocated lower weights to balance risk and return.
+- **Growth Potential:** Companies with strong growth prospects, such as COP, EOG, and OXY, receive moderately high weights to capture potential outperformance.
+- **Market Trends:** The allocation favors companies that are likely to benefit from long-term trends like rising energy demand, global oil price recovery, and the energy transition.
+
+This hypothetical portfolio aims to outperform the SP500-10 energy index by combining stability and growth while managing risk through diversification.

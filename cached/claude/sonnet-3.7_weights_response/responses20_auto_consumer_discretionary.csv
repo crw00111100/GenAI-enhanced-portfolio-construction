@@ -1,0 +1,47 @@
+# Theoretical Consumer Discretionary Portfolio Allocation
+
+Here's a hypothetical weight allocation for a portfolio of SP500-25 consumer discretionary stocks:
+
+| Ticker | Company | Weight |
+|--------|---------|--------|
+| AMZN | Amazon | 0.15 |
+| HD | Home Depot | 0.09 |
+| TSLA | Tesla | 0.09 |
+| MCD | McDonald's | 0.07 |
+| BKNG | Booking Holdings | 0.07 |
+| LOW | Lowe's | 0.06 |
+| ORLY | O'Reilly Automotive | 0.06 |
+| CMG | Chipotle | 0.05 |
+| NKE | Nike | 0.05 |
+| TJX | TJX Companies | 0.05 |
+| LULU | Lululemon | 0.05 |
+| SBUX | Starbucks | 0.04 |
+| ULTA | Ulta Beauty | 0.04 |
+| ROST | Ross Stores | 0.03 |
+| YUM | Yum! Brands | 0.03 |
+| RCL | Royal Caribbean | 0.02 |
+| CCL | Carnival | 0.02 |
+| EXPE | Expedia | 0.01 |
+| EBAY | eBay | 0.01 |
+| F | Ford | 0.01 |
+| **Total** | | **1.00** |
+
+## Strategy/Logic Behind the Allocation
+
+My allocation strategy employs several principles to potentially outperform the index:
+
+1. **Overweight E-commerce and Digital Leaders**: Allocating 15% to Amazon recognizes its dominant position in e-commerce, cloud services, and multiple growth vectors. This is a bet on continued digital transformation of retail.
+
+2. **Home Improvement Focus**: Combined 15% allocation to HD and LOW acknowledges the resilience of home improvement retailers, which tend to perform well across economic cycles and benefit from the aging U.S. housing stock.
+
+3. **Quality and Moat Emphasis**: Higher weights to companies with strong competitive advantages and pricing power (BKNG, MCD, ORLY, CMG) that can weather inflationary pressures.
+
+4. **Balanced Exposure to Discretionary Segments**: The portfolio maintains exposure across retail (TJX, ROST), dining (MCD, SBUX, CMG, YUM), travel (BKNG, RCL, CCL, EXPE), and specialty retail (LULU, ULTA, NKE).
+
+5. **Moderate EV Exposure**: 9% allocation to Tesla provides exposure to the electric vehicle transition without overcommitting to this volatile segment.
+
+6. **Reduced Weight to Cyclical Travel**: Lower allocations to cruise lines and travel companies (CCL, RCL, EXPE) compared to their index weights due to their higher sensitivity to economic downturns.
+
+7. **Limited Exposure to Traditional Auto**: Minimal weight to Ford (1%) reflects challenges in the traditional auto industry amid the EV transition.
+
+This allocation aims to balance growth opportunities with resilience during economic uncertainty, potentially allowing for outperformance across different market environments.

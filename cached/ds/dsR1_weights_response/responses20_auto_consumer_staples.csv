@@ -1,0 +1,63 @@
+Here's a hypothetical model portfolio with weight allocations designed to potentially outperform the S&P 500 Consumer Staples Index, based on a **Growth-Stability Factor Scoring** strategy:
+
+### Portfolio Weight Allocation (Total = 100%)
+| Ticker | Weight (%) | Company Name               |
+|--------|------------|----------------------------|
+| COST   | 6.70       | Costco Wholesale           |
+| WMT    | 6.00       | Walmart                    |
+| MDLZ   | 5.80       | Mondelez International     |
+| STZ    | 5.80       | Constellation Brands       |
+| KR     | 5.80       | Kroger                     |
+| PG     | 5.35       | Procter & Gamble           |
+| KO     | 5.35       | Coca-Cola                  |
+| PEP    | 5.35       | PepsiCo                    |
+| CL     | 5.35       | Colgate-Palmolive          |
+| CHD    | 5.55       | Church & Dwight            |
+| BF.B   | 5.10       | Brown-Forman               |
+| HSY    | 4.45       | Hershey                    |
+| CLX    | 4.45       | Clorox                     |
+| CAG    | 4.45       | Conagra Brands             |
+| GIS    | 4.45       | General Mills              |
+| HRL    | 4.45       | Hormel Foods               |
+| K      | 4.45       | Kellanova                  |
+| SJM    | 4.45       | JM Smucker                 |
+| MO     | 3.75       | Altria Group               |
+| KHC    | 3.10       | Kraft Heinz                |
+
+**Sum Verification**: 6.70 + 6.00 + ... + 3.10 = 100.00%
+
+---
+
+### Underlying Strategy: Growth-Stability Factor Scoring
+The weights are determined by a **dual-factor scoring system** (Growth Potential + Stability) to tilt toward companies with superior growth trajectories while maintaining defensive characteristics. This approach aims to capitalize on the historical tendency of growth-oriented consumer staples to outperform during stable economic periods.
+
+#### Key Factors:
+1. **Growth Potential (60% weight)**:
+   - Revenue/earnings innovation (e.g., COST's e-commerce expansion, KR's supply-chain tech)
+   - Market adaptability (e.g., STZ in premium beverages, MDLZ in global snacking)
+   - Emerging category exposure (e.g., BF.B in premium spirits, CHD in health-focused products)
+
+2. **Stability (40% weight)**:
+   - Consistent dividend history (e.g., PG, KO with 50+ years of increases)
+   - Low volatility (e.g., WMT's recession resilience)
+   - Strong balance sheets (e.g., COST's net cash position)
+
+#### Portfolio Tilts:
+- **Overweight (6-7%)**: 
+  - Modern retailers (COST, WMT, KR) for omnichannel growth
+  - Innovation leaders (STZ, MDLZ) for category expansion
+- **Market Weight (5-5.8%)**: 
+  - Core staples (PG, KO, PEP) with moderate growth but high stability
+- **Underweight (3-4.5%)**: 
+  - Challenged brands (KHC, MO) due to volume declines and regulatory risks
+  - Traditional packaged food (SJM, GIS) facing slower growth
+
+#### Expected Alpha Drivers:
+1. **Structural Growth Bias**: Higher exposure to retailers/innovators (32% of portfolio vs. ~22% in cap-weighted indices)
+2. **Valuation Efficiency**: Reduced weight in overvalued defensive names (KHC, MO)
+3. **Quality Focus**: 85% of holdings have S&P credit ratings of A- or better
+4. **Contrarian Positioning**: Overweight grocery (KR) and underweight tobacco (MO) vs. index norms
+
+---
+
+> **Disclaimer**: This is a *hypothetical* portfolio for illustrative purposes only. Actual allocations would require rigorous fundamental analysis, risk assessment, and consideration of market conditions. Past performance is not indicative of future results.

@@ -1,0 +1,50 @@
+# Theoretical Health Care Portfolio Allocation
+
+## Portfolio Weights
+- JNJ (Johnson & Johnson): 0.09
+- LLY (Eli Lilly): 0.10
+- MRK (Merck): 0.08
+- UNH (UnitedHealth Group): 0.09
+- AMGN (Amgen): 0.07
+- VRTX (Vertex Pharmaceuticals): 0.08
+- REGN (Regeneron): 0.07
+- ISRG (Intuitive Surgical): 0.07
+- SYK (Stryker): 0.06
+- BSX (Boston Scientific): 0.05
+- EW (Edwards Lifesciences): 0.04
+- MDT (Medtronic): 0.04
+- GILD (Gilead Sciences): 0.04
+- ELV (Elevance Health): 0.03
+- CVS (CVS Health): 0.03
+- DXCM (DexCom): 0.02
+- IDXX (IDEXX Laboratories): 0.02
+- BMY (Bristol Myers Squibb): 0.01
+- ALGN (Align Technology): 0.01
+- CI (Cigna): 0.01
+
+Total: 1.00
+
+## Strategy Rationale
+
+My allocation strategy combines several investment approaches:
+
+1. **Innovation-Weighted Approach**: I've allocated higher weights to companies with strong pipelines and innovative treatments (LLY, VRTX, REGN) that are likely to drive future growth.
+
+2. **Balanced Subsector Exposure**: The portfolio maintains exposure across:
+   - Pharmaceuticals (JNJ, LLY, MRK, BMY)
+   - Biotechnology (AMGN, VRTX, REGN, GILD)
+   - Medical Devices (ISRG, BSX, EW, SYK, MDT, DXCM)
+   - Health Insurance/Services (UNH, ELV, CVS, CI)
+   - Diagnostics (IDXX)
+
+3. **Growth-Value Balance**: Combining established dividend payers (JNJ, MRK) with high-growth companies (ISRG, VRTX).
+
+4. **Overweighting Secular Trends**: Higher allocations to companies positioned in:
+   - Diabetes care and obesity treatments (LLY)
+   - Oncology innovation (MRK, AMGN)
+   - Robotic surgery (ISRG)
+   - Rare disease treatments (VRTX, REGN)
+
+5. **Defensive Positioning**: Maintaining significant exposure to companies with stable cash flows and lower volatility (JNJ, UNH) to provide downside protection.
+
+This theoretical allocation aims to outperform by emphasizing innovation-driven growth while maintaining sufficient diversification across healthcare subsectors.

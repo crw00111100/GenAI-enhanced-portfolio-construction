@@ -1,0 +1,36 @@
+Below is one possible “over-/underweight” allocation across the 20 financial names.  All weights sum to 1.00 (i.e. 100%), and the broad idea is to tilt toward higher-ROE, fee-based franchises (exchanges, asset managers, high-quality banks), moderate exposure to cyclical lenders, and underweight more rate-sensitive or low-return insurers.
+
+Ticker Weight (%)
+
+JPM 0.0847 (8.47)  
+BAC 0.0678 (6.78)  
+C  0.0508 (5.08)  
+PNC  0.0678 (6.78)  
+USB  0.0678 (6.78)  
+GS  0.0847 (8.47)  
+MS  0.0678 (6.78)  
+AXP 0.0508 (5.08)  
+COF  0.0339 (3.39)  
+AIG  0.0339 (3.39)  
+ALL  0.0339 (3.39)  
+TRV  0.0508 (5.08)  
+PRU  0.0169 (1.69)  
+MET  0.0169 (1.69)  
+MMC  0.0339 (3.39)  
+ICE  0.0508 (5.08)  
+CME  0.0508 (5.08)  
+BLK  0.0678 (6.78)  
+TROW 0.0339 (3.39)  
+SCHW 0.0339 (3.39)  
+
+Total 1.0000 (100.00)
+
+Rationale/Strategy  
+1. Quality tilt: overweight JPM, GS and BLK for strong ROE, capital generation and leading market franchises.  
+2. Fee-based bias: premium on exchanges (ICE, CME) and asset managers (BLK, SCHW, TROW) to capture secular fee growth and lower credit sensitivity.  
+3. Balanced bank exposure: moderate weights in BAC, PNC, USB; underweight more rate-cyclical lender C.  
+4. Selective investment banking: GS and MS receive a combined ~17% for fixed-income/capital-markets upside.  
+5. Insurance diversification: TRV and MMC moderate weights for balanced underwriting profiles; PRU/MET smaller weights given legacy liabilities and lower ROE.  
+6. Consumer finance underweight: AXP/COF get modest exposure reflecting consumer-loan cyclicality.  
+
+This hypothetical blend aims to outperform a cap-weighted “SP500‐40 financials” index by tilting into higher-quality, fee-driven sub-industries and dialing back lower-ROE, credit-sensitive names.
