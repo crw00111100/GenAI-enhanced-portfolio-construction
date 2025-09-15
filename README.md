@@ -27,11 +27,11 @@ Create accounts and request API keys from the following providers:
 1. Inside the root dictionary of the project, create a folder called ``api_key``.
 2. For each provider, create a text file inside the ``api_key`` folder with the filenames below:
     api_key
-    ├── anthropic_api_key.txt
-    ├── deepseek_api_key.txt
-    ├── gemini_api_key.txt
-    ├── grok_api_key.txt
-    └── openai_api_key.txt
+    ├── anthropic_api_key.txt  
+    ├── deepseek_api_key.txt  
+    ├── gemini_api_key.txt  
+    ├── grok_api_key.txt  
+    └── openai_api_key.txt  
 3. Copy your API key to its corresponding file
 
 ## Overall Workflow
@@ -48,9 +48,15 @@ Moreover, time splits in October 2024 and an out-of-sample period of 6 months fo
 In module [portfolio_construction_20stocks.ipynb](portfolio_construction_20stocks.ipynb), under the sections ``LLM API`` and ``Weighted Portfolio``, you will find several sub-sections corresponding to different LLM models. Please execute only the code blocks under the sub-section of the specific model you intend to use.
 
 ## Files and Folders
-[4_returns_insample/](4_returns_insample): In-sample (5 years prior to the split time) stock returns from S&P 500 sector indices. 
-[4_returns_outsample/](4_returns_outsample): Out-of-sample stock returns, beginning in January 2025 or April 2025, each with a 3-month testing window. 
-[cached/](cached): Cached LLM responses for portfolio construction and optimization. 
-[difference/](difference): data of the difference between benchmark (index) and portfolio for summary metrics plotting. 
-[metrics/](metrics): related csv outputs for computed performance metrics.
-[SP500.csv](SP500.csv): List of companies in S&P 500 index.
+- [4_returns_insample/](4_returns_insample): In-sample (5 years prior to the split time) stock returns from S&P 500 sector indices. 
+- [4_returns_outsample/](4_returns_outsample): Out-of-sample stock returns, beginning in January 2025 or April 2025, each with a 3-month testing window. 
+- [cached/](cached): Cached LLM responses for portfolio construction and optimization. 
+- [difference/](difference): data of the difference between benchmark (index) and portfolio for summary metrics plotting. 
+- [metrics/](metrics): related csv outputs for computed performance metrics.
+- [SP500.csv](SP500.csv): List of companies in S&P 500 index.
+
+## Result
+After comparing portfolio performance regarding the cumulative returns against S&P 500 sector indices across two out-of-sample periods, the results shows that LLMs could construct competitive portfolios that outperform the sector indices, but only in a subset of sectors. The sectors where LLMs failed to outperform are not consistent across the two consecutive out=of-sample periods. One possible explanation is the relative risk or volatility of LLM portfolios in relation to sector indices. It is also discovered that the performance of LLM is influenced by the market condition when the portfolios' performance is evaluated using alternative risk-reward metrics, such as comparing out-of-sample Sharpe ratios. Under periods of higher uncertainty or volatility, LLM-constructed portfolios face greater challenges in outperforming sector benchmarks.
+
+## Conclusion
+Our research find temporal dependence in the performance of LLM portfolios. This could be due to the training data's information asymmetry, which underrepresents highly volatile markets. When LLM-based stock selection is combined with established portfolio optimization models, performances improve. Recognizing the critical limitations of relying solely on LLMs for investment management, it implies that to integrate LLMs capabilities with quantitative optimization methods is essential for achieving more robust and reliable investment outcomes.
