@@ -26,7 +26,7 @@ Create accounts and request API keys from the following providers:
 ### 2. Store the Keys
 1. Inside the root dictionary of the project, create a folder called ``api_key``.
 2. For each provider, create a text file inside the ``api_key`` folder with the filenames below:  
-    api_key
+    api_key  
     ├── anthropic_api_key.txt  
     ├── deepseek_api_key.txt  
     ├── gemini_api_key.txt  
@@ -39,6 +39,7 @@ As the final experiment is based on a portfolio size of 20 stocks, modules with 
 
 Moreover, time splits in October 2024 and an out-of-sample period of 6 months for the January 2025 split were tested during the experiments but were not included in the paper. Therefore, modules with names containing ``Oct split`` or ``Jan split_6months`` are not necessary to run.
 
+Run modules in the following order:
 1. [portfolio_construction_20stocks.ipynb](portfolio_construction_20stocks.ipynb): construct the portfolio with different LLMs.
 2. [portfolio_analysis_20stocks_Jan split.ipynb](<portfolio_analysis_20stocks_Jan split.ipynb>): apply optimization techniques and analysis the portfolio constructed by LLMs with the in/out of-sample split time at January 2025.
 3. [portfolio_analysis_20stocks_Apr split.ipynb](<portfolio_analysis_20stocks_Apr split.ipynb>): apply optimization techniques and analysis the portfolio constructed by LLMs with the in/out of-sample split time at April 2025.
