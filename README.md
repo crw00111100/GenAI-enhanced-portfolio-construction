@@ -45,12 +45,12 @@ Moreover, time splits in October 2024 and an out-of-sample period of 6 months fo
 4. [summary_metrics.ipynb](summary_metrics.ipynb): notebook to plot the summary metrics comparing the performance of portfolios with corresponding benchmarks.
 5. [metrics_analysis.ipynb](metrics_analysis.ipynb): Analyzing portfolio's performance using various evaluation metrics.
 
-In module [portfolio_construction_20stocks.ipynb](portfolio_construction_20stocks.ipynb), under the sections LLM API and Weighted Portfolio, you will find several sub-sections corresponding to different LLM models. Please execute only the code blocks under the sub-section of the specific model you intend to use.
+In module [portfolio_construction_20stocks.ipynb](portfolio_construction_20stocks.ipynb), under the sections ``LLM API`` and ``Weighted Portfolio``, you will find several sub-sections corresponding to different LLM models. Please execute only the code blocks under the sub-section of the specific model you intend to use.
 
 ## Files and Folders
-[4_returns_insample/](4_returns_insample): In-sample (5 years prior to the split time) stock returns from S&P 500 sector indices.
-[4_returns_outsample/](4_returns_outsample): Out-of-sample stock returns, beginning in January 2025 or April 2025, each with a 3-month testing window.
-[cached/](cached): Cached LLM responses for portfolio construction and optimization.
-[difference/](difference): data of the difference between benchmark (index) and portfolio for summary metrics plotting.
+[4_returns_insample/](4_returns_insample): In-sample (5 years prior to the split time) stock returns from S&P 500 sector indices. 
+[4_returns_outsample/](4_returns_outsample): Out-of-sample stock returns, beginning in January 2025 or April 2025, each with a 3-month testing window. 
+[cached/](cached): Cached LLM responses for portfolio construction and optimization. 
+[difference/](difference): data of the difference between benchmark (index) and portfolio for summary metrics plotting. 
 [metrics/](metrics): related csv outputs for computed performance metrics.
 [SP500.csv](SP500.csv): List of companies in S&P 500 index.
