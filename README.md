@@ -25,7 +25,7 @@ Create accounts and request API keys from the following providers:
 
 ### 2. Store the Keys
 1. Inside the root dictionary of the project, create a folder called ``api_key``.
-2. For each provider, create a text file inside the ``api_key`` folder with the filenames below:
+2. For each provider, create a text file inside the ``api_key`` folder with the filenames below:  
     api_key
     ├── anthropic_api_key.txt  
     ├── deepseek_api_key.txt  
